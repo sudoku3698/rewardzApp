@@ -24,7 +24,6 @@
                 </div>
             @endif
             <div class="content">
-		<p>Update Code</p>
                <example-component></example-component>
             </div>
         </div>
