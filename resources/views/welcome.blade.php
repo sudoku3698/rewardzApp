@@ -24,8 +24,7 @@
                 </div>
             @endif
             <div class="content">
-            <li> add features
-            </li>
+        
                <example-component></example-component>
             </div>
         </div>
