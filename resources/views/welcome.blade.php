@@ -24,6 +24,7 @@
                 </div>
             @endif
             <div class="content">
+        
                <example-component></example-component>
             </div>
         </div>
